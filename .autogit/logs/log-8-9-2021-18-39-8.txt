@@ -1,0 +1,92 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 08 2021 18:39:08 GMT+0200 (Ora legale dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+* src/App.css
+* src/App.js
+* src/index.css
+
+
+Created files:
+* .autogit/autogit.json
+* src/client.js
+* src/components/About.js
+* src/components/AboutOld.js
+* src/components/ArtWork.js
+* src/components/Author.js
+* src/components/Comment.js
+* src/components/Contact.js
+* src/components/Event.js
+* src/components/Groq.js
+* src/components/Home.js
+* src/components/ImagePreload.js
+* src/components/Login.js
+* src/components/NavBar.js
+* src/components/NewsLetter.js
+* src/components/PageNotFound.js
+* src/components/Post.js
+* src/components/Productor.js
+* src/components/Rating.js
+* src/components/SingleArtwork.js
+* src/components/SingleAuthor.js
+* src/components/SingleEvent.js
+* src/components/SingleNewsLetter.js
+* src/components/SinglePost.js
+* src/components/SingleProductor.js
+* src/components/Style/SingleModule.css
+* src/components/Style/SingleModule.scss
+* src/components/fragments/calendar.js
+* src/components/fragments/child.js
+* src/components/fragments/social.js
+* src/components/servicies/CreateSocialCounter.js
+* src/components/servicies/createComment.js
+* src/components/servicies/handle-like.js
+* src/components/showDialog.js
+* src/constants/data.js
+* src/images/Ancora-tu...jpg
+* src/images/Lontano-nel-tempo.jpg
+* src/images/Ricky.jpg
+* src/images/Stefano_Profilo.jpg
+* src/images/flowerpower.jpg
+* src/images/icons/comment.png
+* src/images/icons/email.png
+* src/images/icons/follow.png
+* src/images/icons/heart-outline.png
+* src/images/icons/heart.png
+* src/images/icons/share.png
+* src/images/logo.png
+* src/images/nina.jpg
+* src/images/nina_profilo.jpg
+* studio/.npmignore
+* studio/README.md
+* studio/config/.checksums
+* studio/config/@sanity/data-aspects.json
+* studio/config/@sanity/default-layout.json
+* studio/config/@sanity/default-login.json
+* studio/config/@sanity/form-builder.json
+* studio/package.json
+* studio/plugins/.gitkeep
+* studio/sanity.json
+* studio/schemas/artwork.js
+* studio/schemas/author.js
+* studio/schemas/blockContent.js
+* studio/schemas/category.js
+* studio/schemas/event.js
+* studio/schemas/newsletter.js
+* studio/schemas/post.js
+* studio/schemas/productor.js
+* studio/schemas/review.js
+* studio/schemas/schema.js
+* studio/schemas/socialCounter.js
+* studio/static/.gitkeep
+* studio/static/favicon.ico
+* studio/tsconfig.json
+* studio/yarn.lock
+
+
+Deleted files:
+
+
+Renamed files:
