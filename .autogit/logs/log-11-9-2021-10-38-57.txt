@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 11 2021 10:38:57 GMT+0200 (Ora legale dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-11-9-2021-10-8-50.txt
+
+
+Deleted files:
+
+
+Renamed files:
