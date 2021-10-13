@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Oct 13 2021 17:41:02 GMT+0200 (Ora legale dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+
+
+Created files:
+* .autogit/logs/log-13-9-2021-17-10-51.txt
+
+
+Deleted files:
+
+
+Renamed files:
