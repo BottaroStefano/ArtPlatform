@@ -8,7 +8,7 @@ export default async function createComment(req,res){
 
     console.log(req._type);
   
-    const social = {
+    const doc = {
         _type: 'socialCounter',
         entity: req._type,
         socialType: "comment",
@@ -18,7 +18,7 @@ export default async function createComment(req,res){
         text:"commento di prova" ,
     }
     
-    SanityClient.create(social).then((res) => {       
+    SanityClient.create(doc).then((res) => {       
         console.log(`comment was created, document ID is ${res._id}`);
          res.status(200);
     })
