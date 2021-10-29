@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 29 2021 16:58:59 GMT+0200 (Ora legale dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/components/fragments/social.js
+
+
+Created files:
+* .autogit/logs/log-29-9-2021-16-28-43.txt
+
+
+Deleted files:
+
+
+Renamed files:
