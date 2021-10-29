@@ -31,7 +31,7 @@ export default function getSocial(_id,mail,entity){
                     {like}
                 </Link>
                 <a href={"mailto:"+ mail + "?subject=Request%20for%20information%20about:"}>{email}</a>  
-                <Link to={"/servicies/createComment/" + _id} key={_id}>
+                <Link to={"/servicies/createComment/" + entity} key={entity}>
                     {comment}
                 </Link>  
                 {share}   
