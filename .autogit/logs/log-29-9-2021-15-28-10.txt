@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 29 2021 15:28:10 GMT+0200 (Ora legale dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* studio/schemas/socialCounter.js
+
+
+Created files:
+* .autogit/logs/log-29-9-2021-14-57-58.txt
+
+
+Deleted files:
+
+
+Renamed files:
