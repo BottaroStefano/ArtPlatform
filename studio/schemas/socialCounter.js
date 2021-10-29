@@ -26,6 +26,12 @@ export default {
       },
     },
     {
+      name: 'author',
+      title: 'Author',
+      type: 'reference',
+      to: {type: 'author'},
+    },
+    {
       name: 'documentId',
       title: 'Document Id',
       type: 'string',
