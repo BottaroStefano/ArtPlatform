@@ -43,6 +43,13 @@ export default {
       to: {type: 'category'},
     },
     {
+      name: 'technique',
+      title: 'Technique',
+      type: 'string',
+      maxLength: 20,
+    },
+    
+    {
       name: 'url',
       title: 'Url',
       type: 'url',
@@ -51,6 +58,12 @@ export default {
       name: 'size',
       title: 'Size',
       type: 'string',
+    },
+    {
+      name: 'year',
+      title: 'Year',
+      type: 'string',
+      maxLength: 4,
     },
     {
       name: 'tags',

@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom"
 import sanityClient from "../client.js"
 import imageUrlBuilder from "@sanity/image-url";
 import getSocial from "./fragments/social.js";
-import axios from 'axios';
+// import axios from 'axios';
 
 const builder = imageUrlBuilder(sanityClient);
 function urlFor(source){
