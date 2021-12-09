@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Dec 09 2021 18:12:24 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/constants/data.js
+
+
+Created files:
+* .autogit/logs/log-9-11-2021-17-42-7.txt
+
+
+Deleted files:
+
+
+Renamed files:
