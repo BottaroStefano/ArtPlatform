@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Thu Dec 09 2021 10:08:21 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/components/Comment.js
+* src/components/NewsLetter.js
+* src/components/Post.js
+* src/components/fragments/social.js
+* studio/schemas/artwork.js
+
+
+Created files:
+* .autogit/logs/log-29-9-2021-18-29-27.txt
+
+
+Deleted files:
+
+
+Renamed files:
