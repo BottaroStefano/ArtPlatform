@@ -65,12 +65,16 @@ export default {
       type: 'string',
       options:{
         list:[
+          {value:"white", title:"white"},
           {value:"gray", title:"gray"},
+          {value:"black", title:"black"},
           {value:"yellow", title:"yellow"},
-          {value:"cyan", title:"cyan"},
-          {value:"yellow", title:"yellow"},
+          {value:"orange", title:"orange"},
+          {value:"cyan", title:"cyan"}, 
+          {value:"blue", title:"blue"},        
           {value:"green", title:"green"},
           {value:"purple", title:"purple"},
+          {value:"pink", title:"pink"},
           {value:"red", title:"red"}
         ]
       },
