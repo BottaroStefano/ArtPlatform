@@ -3,9 +3,9 @@ const userData = {
     name: "Manu Arora",
     designation: "Full-Stack Developer",
     avatarUrl: "/avatar.png",
-    email: "manuarorawork@gmail.com",
-    phone: "+91 9587738861",
-    address: "Jaipur, Rajasthan, India.",
+    email: "meart@gmail.com",
+    phone: "+39 3317155962",
+    address: "Albano Laziale, Rome, Italy.",
     projects: [
       {
         title: "Tailwind Master Kit",
