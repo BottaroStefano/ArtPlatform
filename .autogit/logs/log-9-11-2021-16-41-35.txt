@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Dec 09 2021 16:41:35 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* studio/schemas/author.js
+
+
+Created files:
+* .autogit/logs/log-9-11-2021-16-11-18.txt
+
+
+Deleted files:
+
+
+Renamed files:
