@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 21 2021 18:13:23 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/components/SingleArtwork.js
+
+
+Created files:
+* .autogit/logs/log-21-11-2021-17-43-16.txt
+
+
+Deleted files:
+
+
+Renamed files:
