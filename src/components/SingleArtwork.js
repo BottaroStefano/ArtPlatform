@@ -98,7 +98,7 @@ export default function SingleArtwork(){
                         dataset="production"
                     />
                     <p className=" flex items-end justify-end text-1xl px-6 "> 
-                        #{singleEntity?.tags.join(', #')} 
+                        #{singleEntity.tags.join(', #')} 
                     </p>  
                 </div>
             </article>
