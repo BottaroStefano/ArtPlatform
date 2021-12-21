@@ -10,7 +10,7 @@ export default function About() {
           Legal Info
         </h1>
       </div>        
-      <div class="shadow-md bg-gray-700">  
+      <div class="shadow-md">  
           <div class="tab w-full overflow-hidden border-t">
               <input class="absolute opacity-0 " id="tab-single-one" type="radio" name="tabs"/>
               <label class="block p-5 leading-normal cursor-pointer font-bold" for="tab-single-one">Diritti di proprietà intellettuale </label>

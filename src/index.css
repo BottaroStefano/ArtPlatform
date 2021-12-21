@@ -62,8 +62,8 @@
           padding: 1.25rem; /*.p-5*/
           border-left-width: 2px; /*.border-l-2*/
           border-color: #6574cd; /*.border-indigo*/
-          background-color: #f8fafc; /*.bg-gray-100 */
-          color: #6574cd; /*.text-indigo*/
+          background-color: bg-gray-700; /*.bg-gray-700 */
+          color: text-gray-300; /*.text-indigo*/
           }
           /* Icon */
           .tab label::after {
@@ -106,6 +106,7 @@
           background-color: #6574cd; /*.bg-indigo*/
           color: #f8fafc; /*.text-grey-lightest*/
           }
+          /* A C C O R D I O N      End */
 
 
    
