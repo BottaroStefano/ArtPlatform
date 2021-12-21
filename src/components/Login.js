@@ -25,7 +25,7 @@ export default function Login() {
             </header>            
             
           </div>
-          <form className="form rounded-lg bg-white p-4 flex flex-col">
+          <form className="form rounded-lg bg-gray-300 p-4 flex flex-col">
           <p className="flex font-light text-base text-gray-200 mt-2">
             <img src={logo} alt="img" className=" mr-4" style={{ height: 50, width: 50 }} />
             <h1 className=" text-4xl text-gray-700 md:text-4xl font-bold item-center justify-center text-center   cursive">
@@ -105,9 +105,15 @@ export default function Login() {
            
             <button
               type="submit"
-              className="bg-blue-500 rounded-md w-1/2 mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
+              className="bg-blue-500 rounded-md mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
             >
-              Submit
+              Login
+            </button>
+            <button
+              type="submit"
+              className="bg-blue-500 rounded-md  mx-4 mt-4 py-2 text-gray-50 text-xs font-bold"
+            >
+              Register me
             </button>
           </form>
         </div>
