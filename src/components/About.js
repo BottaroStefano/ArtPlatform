@@ -10,25 +10,25 @@ export default function About() {
           Legal Info
         </h1>
       </div>        
-      <div class="shadow-md">  
+      <div class="shadow-md bg-gray-700">  
           <div class="tab w-full overflow-hidden border-t">
               <input class="absolute opacity-0 " id="tab-single-one" type="radio" name="tabs"/>
               <label class="block p-5 leading-normal cursor-pointer font-bold" for="tab-single-one">Diritti di proprietà intellettuale </label>
-              <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
+              <div class="tab-content overflow-hidden border-l-2 bg-gray-700 border-indigo-500 leading-normal">
                 <p class="p-5">{userData.about.copyright}.</p>
               </div>
           </div>
           <div class="tab w-full overflow-hidden border-t">
               <input class="absolute opacity-0 " id="tab-single-two" type="radio" name="tabs"/>
               <label class="block p-5 leading-normal cursor-pointer font-bold" for="tab-single-two">Modalità e condizioni di utilizzo del sito web</label>
-              <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
+              <div class="tab-content overflow-hidden border-l-2 bg-gray-700 border-indigo-500 leading-normal">
                 <p class="p-5">{userData.about.condition}.</p>
               </div>
           </div>
           <div class="tab w-full overflow-hidden border-t">
               <input class="absolute opacity-0 " id="tab-single-three" type="radio" name="tabs"/>
               <label class="block p-5 leading-normal cursor-pointer font-bold" for="tab-single-three">Normativa applicabile </label>
-              <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
+              <div class="tab-content overflow-hidden border-l-2 bg-gray-700 border-indigo-500 leading-normal">
                 <p class="p-5">{userData.about.privacy}.</p>
               </div>
           </div>
