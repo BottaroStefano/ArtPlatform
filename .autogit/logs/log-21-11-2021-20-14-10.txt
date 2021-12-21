@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 21 2021 20:14:10 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* src/components/Login.js
+
+
+Created files:
+* .autogit/logs/log-21-11-2021-19-43-53.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -39,7 +39,7 @@ export default function Event() {
         <main className="bg-gray-700 min-h-screen p-12">
             <section className="container mx-auto">
                 <h1 className="text-5xl text-gray-300 font-extrabold flex justify-center cursive">On line Events</h1>
-                <h2 className="text-lg text-gray-300 flex justify-center mb-12">Welcome to Me Art events</h2>
+                <h2 className="text-lg text-gray-300 flex justify-center mb-12">Welcome to Me Art Events</h2>
                 <div className="grid md:grid-cols2 lg:grid-cols-3 gap-8">
                     {entityData && 
                         entityData.map((event, index) => ( 
