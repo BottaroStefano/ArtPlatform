@@ -99,15 +99,20 @@ export default function Login() {
             <input
               type="checkbox"
               className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-blue-500"
-              name="newsLetter"
-              
+              name="newsLetter"              
             />
            
             <button
               type="submit"
-              className="bg-blue-500 rounded-md mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
+              className="bg-blue-500 rounded-md mx-4 mt-4 py-2 text-gray-50 text-xs font-bold"
             >
               Login
+            </button>
+            <button
+              type="submit"
+              className="bg-red-500 rounded-md mx-4 mt-4 py-2 text-gray-50 text-xs font-bold"
+            >
+              Google Login
             </button>
             <button
               type="submit"
