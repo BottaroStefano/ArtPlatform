@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Dec 27 2021 15:16:39 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-26-11-2021-22-13-41.txt
+
+
+Deleted files:
+
+
+Renamed files:
