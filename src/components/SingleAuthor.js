@@ -147,10 +147,8 @@ export default function SingleAuthor(){
                                                 className="w-10 h-10 rounded-full"  
                                                 title= {entity.category}                                   
                                             /> 
-                                            {entity.title} - {entity.technique}
-                                            {entity.size}
-                                            {entity.year}
-                                            
+                                            {entity.title} - {entity.technique} - {entity.size} - ( {entity.year})
+                                                                                 
                                         </p>        
                                         
                                     </div>                                        
