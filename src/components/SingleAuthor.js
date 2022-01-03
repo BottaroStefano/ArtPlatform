@@ -31,7 +31,7 @@ export default function SingleAuthor(){
                 city,
                 abstract,
                 mail,
-                color,
+                color,               
                 image{
                     asset->{
                         _id,
@@ -44,7 +44,9 @@ export default function SingleAuthor(){
                 "relatedartworks": *[_type=='artwork' && references(^._id)]{ 
                     _id,
                     title,
-                    slug,   
+                    slug, 
+                    technique,
+                    year,                  
                     size, 
                     "category": category->title,
                     "categoryImage": category->image,
@@ -145,7 +147,9 @@ export default function SingleAuthor(){
                                                 className="w-10 h-10 rounded-full"  
                                                 title= {entity.category}                                   
                                             /> 
-                                            {entity.title}
+                                            {entity.title} - {entity.technique}
+                                            {entity.size}
+                                            {entity.year}
                                             
                                         </p>        
                                         
