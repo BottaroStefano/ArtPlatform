@@ -1,0 +1,81 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jan 26 2022 15:41:45 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+* .gitignore
+
+
+Created files:
+* .autogit/logs/log-26-0-2022-15-11-23.txt
+* .vscode/settings.json
+* amplify/.config/project-config.json
+* amplify/backend/auth/meArt/cli-inputs.json
+* amplify/backend/backend-config.json
+* amplify/backend/tags.json
+* amplify/backend/types/amplify-dependent-resources-ref.d.ts
+* amplify/cli.json
+* amplify/team-provider-info.json
+* src/ui-components/Ampligram.jsx
+* src/ui-components/Ampligram.jsx.d.ts
+* src/ui-components/CardA.jsx
+* src/ui-components/CardA.jsx.d.ts
+* src/ui-components/CardB.jsx
+* src/ui-components/CardB.jsx.d.ts
+* src/ui-components/CardC.jsx
+* src/ui-components/CardC.jsx.d.ts
+* src/ui-components/CardD.jsx
+* src/ui-components/CardD.jsx.d.ts
+* src/ui-components/CardE.jsx
+* src/ui-components/CardE.jsx.d.ts
+* src/ui-components/CardF.jsx
+* src/ui-components/CardF.jsx.d.ts
+* src/ui-components/CardG.jsx
+* src/ui-components/CardG.jsx.d.ts
+* src/ui-components/ContactUs.jsx
+* src/ui-components/ContactUs.jsx.d.ts
+* src/ui-components/EditProfile.jsx
+* src/ui-components/EditProfile.jsx.d.ts
+* src/ui-components/FAQItem.jsx
+* src/ui-components/FAQItem.jsx.d.ts
+* src/ui-components/Features2x2.jsx
+* src/ui-components/Features2x2.jsx.d.ts
+* src/ui-components/Features2x3.jsx
+* src/ui-components/Features2x3.jsx.d.ts
+* src/ui-components/Features4x1.jsx
+* src/ui-components/Features4x1.jsx.d.ts
+* src/ui-components/FeaturesText2x2.jsx
+* src/ui-components/FeaturesText2x2.jsx.d.ts
+* src/ui-components/FormCheckout.jsx
+* src/ui-components/FormCheckout.jsx.d.ts
+* src/ui-components/HeroLayout1.jsx
+* src/ui-components/HeroLayout1.jsx.d.ts
+* src/ui-components/HeroLayout2.jsx
+* src/ui-components/HeroLayout2.jsx.d.ts
+* src/ui-components/HeroLayout3.jsx
+* src/ui-components/HeroLayout3.jsx.d.ts
+* src/ui-components/HeroLayout4.jsx
+* src/ui-components/HeroLayout4.jsx.d.ts
+* src/ui-components/MarketingFooter.jsx
+* src/ui-components/MarketingFooter.jsx.d.ts
+* src/ui-components/MarketingPricing.jsx
+* src/ui-components/MarketingPricing.jsx.d.ts
+* src/ui-components/NavBar.jsx
+* src/ui-components/NavBar.jsx.d.ts
+* src/ui-components/ProductDetail.jsx
+* src/ui-components/ProductDetail.jsx.d.ts
+* src/ui-components/ProfileA.jsx
+* src/ui-components/ProfileA.jsx.d.ts
+* src/ui-components/SideBar.jsx
+* src/ui-components/SideBar.jsx.d.ts
+* src/ui-components/SocialA.jsx
+* src/ui-components/SocialA.jsx.d.ts
+* src/ui-components/SocialB.jsx
+* src/ui-components/SocialB.jsx.d.ts
+* src/ui-components/index.js
+
+
+Deleted files:
+
+
+Renamed files:
