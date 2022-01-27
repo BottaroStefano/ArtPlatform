@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Thu Jan 27 2022 10:24:26 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-27-0-2022-9-54-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
