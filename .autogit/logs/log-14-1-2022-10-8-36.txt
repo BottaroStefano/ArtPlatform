@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Feb 14 2022 10:08:36 GMT+0100 (Ora standard dell’Europa centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-11-1-2022-0-34-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
